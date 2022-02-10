@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-radicle",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Radicle specific ESLint rules",
   "main": "index.js",
   "keywords": [],

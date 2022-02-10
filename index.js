@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/naming-convention */
 module.exports.rules = {
-  "negation-space": (context) => {
+  "space-after-unary": (context) => {
     return {
       "IfStatement > UnaryExpression": function (node) {
         const argumentShouldStartAt = node.loc.start.column + 2;
